@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Lindi Sang / RickSANG"
 title_separator          : "-"
 name                     : &name "Lindi Sang"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Lindi Sang's academic website covering research, projects, and CV in computational materials science and AI-accelerated catalysis"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://ricksang.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -26,13 +26,14 @@ author:
   avatar           : "profile.png"
   name             : "Lindi Sang"
   pronouns         : "he/his"# example: "she/her"  
-  bio              : "hello! tech creates better future"
+  bio              : "M.S. student at NUS working on machine-learning potentials, heterogeneous catalysis, and computational materials science."
   location         : "Singapore"
   employer         : "National University of Singapore"
   uri              : # URL
   email            : "sld150000@163.com" 
   WeChat           : "Sang0D"
   bilibili         :  "https://space.bilibili.com/27305848?spm_id_from=333.1007.0.0"
+  cv_pdf           : "/files/SangLindi_CV.pdf"
   # Academic websites
 
   academia         : # URL

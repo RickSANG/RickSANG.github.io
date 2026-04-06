@@ -10,6 +10,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Download PDF CV]({{ base_path }}/files/SangLindi_CV.pdf)
+
 Education
 ======
 * **M.S. in Materials Science and Engineering**, National University of Singapore, 2025.08 - 2026.06 (Expected)

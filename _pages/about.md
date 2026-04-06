@@ -9,34 +9,30 @@ redirect_from:
 
 ## Lindi (Ricky) Sang
 
-### Master’s Student in NUS| Materials Science and Engineering
+### M.S. Student, Materials Science and Engineering, National University of Singapore
 
-### 🧪 About Me
+### About Me
 
-Hello! I am Lindi Sang (you can also call me Ricky). I am currently pursuing my Master’s degree in Materials Science, where I focus on bridging the gap between traditional materials research and modern computational techniques.
+I am Lindi Sang, also known as Ricky. I am currently pursuing my master's degree in Materials Science and Engineering at the National University of Singapore. My work sits at the intersection of materials science, atomistic simulation, and machine learning.
 
-### 🔬 Research Focus
+### Research Focus
 
-I am currently conducting research on the application of machine-learning potentials (MLP) for heterogeneous catalysis. My work aims to accelerate the discovery and optimization of catalytic materials by utilizing ML to achieve DFT-level accuracy at a fraction of the computational cost.
+My current research focuses on machine-learning potentials for heterogeneous catalysis. I am interested in building data-driven models that approach DFT-level accuracy while enabling larger-scale and faster simulations for catalytic systems.
 
-Under the guidance of Dr. Benjamin Chen, I am exploring:
+My recent work includes:
 
-Development and validation of machine-learning potentials.
+- machine-learning potential development and validation
+- AI-accelerated surface catalysis modeling with GNN and Transformer architectures
+- first-principles simulation and atomistic modeling for materials discovery
 
-Surface interactions and reaction pathways in heterogeneous systems.
+### Experience and Skills
 
-Data-driven materials discovery.
+My background combines computational materials science and hands-on device or materials work. I have experience with Python, MATLAB, Verilog, Linux, VASP, Nanodcal, and the fairchem framework, along with experimental techniques such as magnetron sputtering and UV photolithography.
 
-### 💻 Skills & Interests
+### Contact
 
-Core Disciplines: Materials Science, Heterogeneous Catalysis, Computational Chemistry.
+I am open to research discussion, academic collaboration, and technical exchange in materials science, catalysis, and scientific machine learning.
 
-Technologies: Machine Learning (Potentials/Interatomic potentials), Python, Molecular Dynamics.
-
-Interests: In my spare time, I enjoy exploring the potential of anything.
-
-### Contact & Collaboration
-
-I am always open to discussing research, machine learning, or even the latest episodes of Rick and Morty. Feel free to reach out!  
-Wechat:Sang0D  
-Email:sld150000@163.com  
+WeChat: Sang0D  
+Email: <sld150000@163.com>  
+GitHub: [RickSANG](https://github.com/RickSANG)
