@@ -9,23 +9,18 @@ redirect_from:
 
 <section class="home-about">
   <h2>About Me</h2>
-  <p>Hi! I am <strong>Lindi Sang (桑林迪)</strong>, currently a master's student in Materials Science and Engineering at the <a href="https://www.nus.edu.sg/">National University of Singapore (NUS)</a>. I received my B.Eng. in Materials Science and Engineering from the <a href="https://en.uestc.edu.cn/">University of Electronic Science and Technology of China (UESTC)</a>.</p>
+  <p>Hi! I am <strong>Lindi Sang (桑林迪)</strong>, currently a master's student in Materials Science and Engineering at the <a href="https://www.nus.edu.sg/">National University of Singapore (NUS)</a>. I received my B.Eng. in Materials Science and Engineering from the <a href="https://www.uestc.edu.cn/">University of Electronic Science and Technology of China (UESTC)</a>.</p>
   <p>My research focuses on machine-learning potentials, heterogeneous catalysis, atomistic simulation, and AI-accelerated materials discovery. I am especially interested in building data-driven models that approach DFT-level accuracy while enabling larger-scale and faster simulations for catalytic systems.</p>
   <p>Feel free to reach out to me for research discussion, academic collaboration, or technical exchange. It is my <a href="{{ base_path }}/files/SangLindi_CV.pdf">CV</a>.</p>
 </section>
 
-<section class="home-gallery" aria-label="Photo gallery">
-  <img src="{{ base_path }}/images/profile.png" alt="Lindi Sang profile photo">
-  <img src="{{ base_path }}/images/profile1.png" alt="Profile image">
-  <img src="{{ base_path }}/images/bio-photo.jpg" alt="Academic profile image">
-  <img src="{{ base_path }}/images/bio-photo-2.jpg" alt="Academic profile image">
-  <img src="{{ base_path }}/images/500x300.png" alt="Project image">
-</section>
 
 <section class="home-education">
   <h2>Education</h2>
   <div class="home-education__item">
-    <div class="home-education__logo">NUS</div>
+    <div class="home-education__logo">
+      <img src="https://download.logo.wine/logo/National_University_of_Singapore/National_University_of_Singapore-Logo.wine.png" alt="National University of Singapore logo">
+    </div>
     <div class="home-education__body">
       <a href="https://www.nus.edu.sg/">National University of Singapore (NUS)</a>
       <p>Master of Science in Materials Science and Engineering</p>
@@ -34,7 +29,9 @@ redirect_from:
     </div>
   </div>
   <div class="home-education__item">
-    <div class="home-education__logo">UESTC</div>
+    <div class="home-education__logo">
+      <img src="https://cdn.urongda.com/images/normal/medium/university-of-electronic-science-and-technology-of-china-logo-1024px.png" alt="University of Electronic Science and Technology of China logo">
+    </div>
     <div class="home-education__body">
       <a href="https://en.uestc.edu.cn/">University of Electronic Science and Technology of China (UESTC)</a>
       <p>B.Eng. in Materials Science and Engineering</p>
