@@ -69,7 +69,7 @@ redirect_from:
   <h2>Internships</h2>
   <div class="home-education__item">
     <div class="home-education__logo">
-      <img src="https://img.logokit.com/a-star.edu.sg" alt="A*STAR logo">
+      <img src="{{ base_path }}/files/logo/astarlogo.png" alt="A*STAR logo">
     </div>
     <div class="home-education__body">
       <a href="https://www.a-star.edu.sg/ihpc">A*STAR Institute of High Performance Computing (A*STAR IHPC)</a>

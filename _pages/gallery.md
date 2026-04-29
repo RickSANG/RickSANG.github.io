@@ -43,6 +43,16 @@ author_profile: true
 </section>
 
 <section class="gallery-section">
+  <h2>Sports / Golf</h2>
+  <div class="gallery-grid">
+    <figure class="gallery-card">
+      <img src="{{ base_path }}/files/sports/golf.jpg" alt="Golf">
+      <figcaption>Golf</figcaption>
+    </figure>
+  </div>
+</section>
+
+<section class="gallery-section">
   <h2>Innovation Project</h2>
   <div class="gallery-grid">
     <figure class="gallery-card">
