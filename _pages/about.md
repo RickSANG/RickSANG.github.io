@@ -7,13 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-## Lindi (Ricky) Sang
+## Lindi Sang
 
 ### M.S. Student, Materials Science and Engineering, National University of Singapore
 
 ### About Me
 
-I am Lindi Sang, also known as Ricky. I am currently pursuing my master's degree in Materials Science and Engineering at the National University of Singapore. My work sits at the intersection of materials science, atomistic simulation, and machine learning.
+I am Lindi Sang. I am currently pursuing my master's degree in Materials Science and Engineering at the National University of Singapore. My work sits at the intersection of materials science, atomistic simulation, and machine learning.
 
 ### Research Focus
 

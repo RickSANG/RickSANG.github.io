@@ -6,7 +6,7 @@ The site is built with Jekyll on top of the Academic Pages theme and is used to 
 
 ## Profile Summary
 
-- Name: Lindi Sang (Ricky Sang)
+- Name: Lindi Sang
 - Current position: M.S. student in Materials Science and Engineering at the National University of Singapore
 - Research interests: machine-learning potentials, heterogeneous catalysis, computational materials science, AI-accelerated atomistic modeling
 - Contact email: <sld150000@163.com>

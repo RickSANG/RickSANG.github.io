@@ -1,15 +1,15 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
-    "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "name": "Lindi Sang",
+    "email": "e1553738@u.nus.edu",
+    "phone": "+65 80994812",
+    "website": "https://ricksang.github.io",
+    "summary": "Master's student in Materials Science and Engineering at NUS, passionate about deep learning-driven materials discovery, AI infrastructure, and computational methods.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
+      "city": "Singapore",
+      "countryCode": "SG",
       "region": ""
     },
     "profiles": [
@@ -25,128 +25,181 @@
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "RickSANG",
+        "url": "https://github.com/RickSANG"
       }
     ]
   },
-  "work": [],
+  "work": [
+    {
+      "name": "A*STAR Institute of High Performance Computing (A*STAR IHPC)",
+      "position": "Master Intern - NUS MLE5003 Materials Science & Engineering Project",
+      "startDate": "2025-08",
+      "endDate": "",
+      "summary": "Working on AI-accelerated first-principles calculations for catalyst discovery using Graph Neural Networks.",
+      "highlights": [
+        "Model Fine-tuning: Fine-tuned the Universal Model for Atoms (UMA) on the spin-polarized AQCat25 dataset",
+        "Workflow Automation: Developed the NRR-Explorer Agent integrating AdsorbML",
+        "Catalyst Discovery: High-Throughput Screening for optimal reaction pathways"
+      ]
+    },
+    {
+      "name": "EVE ENERGY Co., Ltd",
+      "position": "Intern, Battery Management System Department",
+      "startDate": "2024-01",
+      "endDate": "2024-01",
+      "summary": "Battery system testing and evaluation",
+      "highlights": [
+        "Participated in battery system testing for high/low temperature environments",
+        "Conducted vibration and shock trials, power tests, and simulated condition testing"
+      ]
+    }
+  ],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
-      "gpa": null,
+      "institution": "National University of Singapore",
+      "area": "Master of Science in Materials Science and Engineering",
+      "studyType": "M.S.",
+      "startDate": "2025-08",
+      "endDate": "",
+      "gpa": "4.75/5.0",
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
+      "institution": "National University of Singapore (Suzhou) Research Institute",
+      "area": "Exchange Student - Undergraduate Final Year Project",
+      "studyType": "Exchange",
+      "startDate": "2024-08",
+      "endDate": "2025-05",
+      "gpa": "",
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
+      "institution": "University of Electronic Science and Technology of China (UESTC)",
+      "area": "Bachelor of Engineering in Materials Science and Engineering",
+      "studyType": "B.E.",
+      "startDate": "2021-08",
+      "endDate": "2025-06",
+      "gpa": "3.9/4.0",
       "courses": []
     }
   ],
-  "skills": [],
+  "skills": [
+    {
+      "name": "Software & Infrastructure",
+      "level": "Expert",
+      "keywords": [
+        "Python",
+        "MATLAB",
+        "LaTeX",
+        "PyTorch",
+        "Linux",
+        "High-Performance Computing (HPC)"
+      ]
+    },
+    {
+      "name": "Digital & Embedded Systems",
+      "level": "Proficient",
+      "keywords": [
+        "Verilog",
+        "FPGA design",
+        "C/C++",
+        "FreeRTOS",
+        "Embedded Linux",
+        "PCB Layout"
+      ]
+    },
+    {
+      "name": "Multiscale Simulation",
+      "level": "Expert",
+      "keywords": [
+        "VASP",
+        "Nanodcal (DFT/NEGF)",
+        "Ansys Fluent (CFD)"
+      ]
+    },
+    {
+      "name": "Others",
+      "level": "Proficient",
+      "keywords": [
+        "Design of Experiments (DOE)",
+        "Statistical Data Analysis",
+        "Minitab",
+        "Solid State Physics",
+        "Semiconductor Device Theory"
+      ]
+    }
+  ],
   "languages": [],
-  "interests": [],
+  "interests": [
+    {
+      "name": "Deep Learning-driven Materials Discovery"
+    },
+    {
+      "name": "AI Infrastructure"
+    },
+    {
+      "name": "Computational Methods"
+    },
+    {
+      "name": "Multiscale Simulation"
+    },
+    {
+      "name": "Hardware-Software Co-design for Edge AI"
+    },
+    {
+      "name": "Semiconductor Technology"
+    }
+  ],
   "references": [],
-  "publications": [
+  "publications": [],
+  "presentations": [],
+  "teaching": [],
+  "portfolio": [],
+  "awards": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "https://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "title": "Excellent Competitor in HiSilicon Embedded Competition",
+      "date": "2024",
+      "awarder": "HiSilicon"
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "https://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
+      "title": "EVE ENERGY Enterprise Scholarship",
+      "date": "2024",
+      "awarder": "EVE"
     },
     {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
+      "title": "Far East Enterprise Scholarship",
+      "date": "2024",
+      "awarder": "Far East"
     },
     {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "title": "Model Student Scholarship",
+      "date": "2024",
+      "awarder": "UESTC"
+    },
+    {
+      "title": "Excellent Student (Second Class) Scholarship",
+      "date": "2023",
+      "awarder": "UESTC"
+    },
+    {
+      "title": "Model Student Scholarship",
+      "date": "2022",
+      "awarder": "UESTC"
     }
   ],
-  "presentations": [
+  "competitions": [
     {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
+      "title": "Third Prize in the Finals, 2024 National College Students Embedded Chip and System Design Competition (SoC China)",
+      "date": "2024"
     },
     {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
+      "title": "First Prize in Central and Southwestern China Division, 2024 HUAWEI CUP National Undergraduate IoT Design Contest",
+      "date": "2024"
     },
     {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
-    }
-  ],
-  "teaching": [
-    {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
-    },
-    {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
-    }
-  ],
-  "portfolio": [
-    {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+      "title": "First Prize, 2023 Sichuan International College Students' Innovation Competition",
+      "date": "2023"
     }
   ]
 }

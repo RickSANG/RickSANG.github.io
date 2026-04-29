@@ -34,7 +34,10 @@
         <li><a href="{{ author.uri }}"><i class="fas fa-fw fa-link icon-pad-right" aria-hidden="true"></i>{{ site.data.ui-text[site.locale].website_label | default: "Website" }}</a></li>
       {% endif %}
       {% if author.email %}
-        <li><a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope icon-pad-right" aria-hidden="true"></i>{{ site.data.ui-text[site.locale].email_label | default: "Email" }}</a></li>
+        <li><a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope icon-pad-right" aria-hidden="true"></i>Email: {{ author.email }}</a></li>
+      {% endif %}
+      {% if author.mobile %}
+        <li><a href="tel:{{ author.mobile | remove: ' ' }}"><i class="fas fa-fw fa-phone icon-pad-right" aria-hidden="true"></i>Mobile: {{ author.mobile }}</a></li>
       {% endif %}
       {% if author.cv_pdf %}
         <li><a href="{{ author.cv_pdf | prepend: base_path }}" target="_blank" rel="noopener"><i class="fas fa-fw fa-file-arrow-down icon-pad-right" aria-hidden="true"></i>Download CV</a></li>
