@@ -10,7 +10,7 @@ redirect_from:
 <section class="home-about">
   <h2>About Me</h2>
   <p>Hi! I am <strong>Lindi Sang (桑林迪)</strong>, currently a master's student in Materials Science and Engineering at the <a href="https://www.nus.edu.sg/">National University of Singapore (NUS)</a>. I received my B.Eng. in Materials Science and Engineering from the <a href="https://www.uestc.edu.cn/">University of Electronic Science and Technology of China (UESTC)</a>.</p>
-  <p>My research focuses on machine-learning potentials, heterogeneous catalysis, atomistic simulation, and AI-accelerated materials discovery. I am especially interested in building data-driven models that approach DFT-level accuracy while enabling larger-scale and faster simulations for catalytic systems.</p>
+  <p>My research interests include deep learning-driven materials discovery, AI infrastructure, computational methods, and multiscale simulation. I am also interested in hardware-software co-design for edge AI and semiconductor technology.</p>
   <p>Feel free to reach out to me for research discussion, academic collaboration, or technical exchange. It is my <a href="{{ base_path }}/files/SangLindi_CV.pdf">CV</a>.</p>
 </section>
 
@@ -26,6 +26,7 @@ redirect_from:
       <p>Master of Science in Materials Science and Engineering</p>
       <p class="home-education__result">GPA: 4.75/5</p>
       <p>Aug. 2025 - Present</p>
+      <p class="home-education__links"><a href="{{ base_path }}/files/N_SR_TSRPT.pdf">Master Transcript</a></p>
     </div>
   </div>
   <div class="home-education__item">
@@ -37,6 +38,7 @@ redirect_from:
       <p>B.Eng. in Materials Science and Engineering</p>
       <p class="home-education__result">GPA: 3.9/4.0, Rank: 2/21</p>
       <p>Aug. 2021 - Jun. 2025</p>
+      <p class="home-education__links"><a href="{{ base_path }}/files/%E5%A4%A7%E5%AD%A6%E6%88%90%E7%BB%A9English.pdf">Undergraduate Transcript</a></p>
     </div>
   </div>
 </section>
@@ -48,6 +50,7 @@ redirect_from:
     <li>Semiconductor Device Theory</li>
     <li>Machine Learning for Materials Science</li>
     <li>First-Principles Calculation and Atomistic Simulation</li>
+    <li>Transcripts: <a href="{{ base_path }}/files/N_SR_TSRPT.pdf">Master</a> / <a href="{{ base_path }}/files/%E5%A4%A7%E5%AD%A6%E6%88%90%E7%BB%A9English.pdf">Undergraduate</a></li>
   </ul>
 </section>
 
