@@ -7,32 +7,101 @@ redirect_from:
   - /about.html
 ---
 
-## Lindi Sang
+<section class="home-about">
+  <h2>About Me</h2>
+  <p>Hi! I am <strong>Lindi Sang (桑林迪)</strong>, currently a master's student in Materials Science and Engineering at the <a href="https://www.nus.edu.sg/">National University of Singapore (NUS)</a>. I received my B.Eng. in Materials Science and Engineering from the <a href="https://en.uestc.edu.cn/">University of Electronic Science and Technology of China (UESTC)</a>.</p>
+  <p>My research focuses on machine-learning potentials, heterogeneous catalysis, atomistic simulation, and AI-accelerated materials discovery. I am especially interested in building data-driven models that approach DFT-level accuracy while enabling larger-scale and faster simulations for catalytic systems.</p>
+  <p>Feel free to reach out to me for research discussion, academic collaboration, or technical exchange. It is my <a href="{{ base_path }}/files/SangLindi_CV.pdf">CV</a>.</p>
+</section>
 
-### M.S. Student, Materials Science and Engineering, National University of Singapore
+<section class="home-gallery" aria-label="Photo gallery">
+  <img src="{{ base_path }}/images/profile.png" alt="Lindi Sang profile photo">
+  <img src="{{ base_path }}/images/profile1.png" alt="Profile image">
+  <img src="{{ base_path }}/images/bio-photo.jpg" alt="Academic profile image">
+  <img src="{{ base_path }}/images/bio-photo-2.jpg" alt="Academic profile image">
+  <img src="{{ base_path }}/images/500x300.png" alt="Project image">
+</section>
 
-### About Me
+<section class="home-education">
+  <h2>Education</h2>
+  <div class="home-education__item">
+    <div class="home-education__logo">NUS</div>
+    <div class="home-education__body">
+      <a href="https://www.nus.edu.sg/">National University of Singapore (NUS)</a>
+      <p>Master of Science in Materials Science and Engineering</p>
+      <p class="home-education__result">GPA: 4.75/5</p>
+      <p>Aug. 2025 - Present</p>
+    </div>
+  </div>
+  <div class="home-education__item">
+    <div class="home-education__logo">UESTC</div>
+    <div class="home-education__body">
+      <a href="https://en.uestc.edu.cn/">University of Electronic Science and Technology of China (UESTC)</a>
+      <p>B.Eng. in Materials Science and Engineering</p>
+      <p class="home-education__result">GPA: 3.9/4.0, Rank: 2/21</p>
+      <p>Aug. 2021 - Jun. 2025</p>
+    </div>
+  </div>
+</section>
 
-I am Lindi Sang. I am currently pursuing my master's degree in Materials Science and Engineering at the National University of Singapore. My work sits at the intersection of materials science, atomistic simulation, and machine learning.
+<section class="home-section">
+  <h2>Selected Courses</h2>
+  <ul class="home-columns">
+    <li>Solid State Physics</li>
+    <li>Semiconductor Device Theory</li>
+    <li>Machine Learning for Materials Science</li>
+    <li>First-Principles Calculation and Atomistic Simulation</li>
+  </ul>
+</section>
 
-### Research Focus
+<section class="home-section">
+  <h2>News</h2>
+  <ul class="home-news">
+    <li><span>2025.08</span> Started my M.S. study in Materials Science and Engineering at NUS.</li>
+    <li><span>2025.08</span> Joined A*STAR IHPC as a master intern for the NUS MLE5003 project.</li>
+    <li><span>2025.06</span> Received my B.Eng. degree from UESTC.</li>
+    <li><span>2024</span> Won the EVE ENERGY Enterprise Scholarship and Far East Enterprise Scholarship.</li>
+    <li><span>2024</span> Received Third Prize in the Finals of the National College Students Embedded Chip and System Design Competition.</li>
+  </ul>
+</section>
 
-My current research focuses on machine-learning potentials for heterogeneous catalysis. I am interested in building data-driven models that approach DFT-level accuracy while enabling larger-scale and faster simulations for catalytic systems.
+<section class="home-section">
+  <h2>Project Experience</h2>
+  <div class="home-project">
+    <h3>AI-Accelerated First-Principles Calculations for Catalyst Discovery</h3>
+    <p class="home-project__meta">Aug. 2025 - Present</p>
+    <p>Fine-tuned the Universal Model for Atoms (UMA) on the spin-polarized AQCat25 dataset using a Mixture of Linear Experts architecture, and developed an NRR-Explorer workflow integrating AdsorbML for site sampling, geometry relaxation, and structural anomaly filtering.</p>
+  </div>
+  <div class="home-project">
+    <h3>Bio-realistic Memristive Synapse for Neuromorphic Computing</h3>
+    <p class="home-project__meta">Sep. 2024 - May 2025</p>
+    <p>Fabricated Mo/AlScN/Pt memristors on SiO2 substrates and studied ferroelectric switching and resistive switching mechanisms using XRD and PUND characterization.</p>
+  </div>
+  <div class="home-project">
+    <h3>Intelligent Food Storage System Based on HiSilicon Hi3861 & Hi3516</h3>
+    <p class="home-project__meta">Dec. 2023 - Aug. 2024</p>
+    <p>Developed an IoT system for multi-sensor data collection and deployed quantized YOLOv5 models on the HiSilicon Hi3516 board for edge-side inference.</p>
+  </div>
+</section>
 
-My recent work includes:
+<section class="home-section">
+  <h2>Awards</h2>
+  <ul>
+    <li>Excellent Competitor in HiSilicon Embedded Competition, 2024</li>
+    <li>EVE ENERGY Enterprise Scholarship, 2024</li>
+    <li>Far East Enterprise Scholarship, 2024</li>
+    <li>Model Student Scholarship, UESTC, 2024</li>
+    <li>Excellent Student Scholarship, UESTC, 2023</li>
+    <li>Model Student Scholarship, UESTC, 2022</li>
+  </ul>
+</section>
 
-- machine-learning potential development and validation
-- AI-accelerated surface catalysis modeling with GNN and Transformer architectures
-- first-principles simulation and atomistic modeling for materials discovery
-
-### Experience and Skills
-
-My background combines computational materials science and hands-on device or materials work. I have experience with Python, MATLAB, Verilog, Linux, VASP, Nanodcal, and the fairchem framework, along with experimental techniques such as magnetron sputtering and UV photolithography.
-
-### Contact
-
-I am open to research discussion, academic collaboration, and technical exchange in materials science, catalysis, and scientific machine learning.
-
-WeChat: Sang0D  
-Email: <sld150000@163.com>  
-GitHub: [RickSANG](https://github.com/RickSANG)
+<section class="home-section">
+  <h2>Skills</h2>
+  <ul class="home-columns">
+    <li>Programming: Python, MATLAB, C/C++</li>
+    <li>Machine Learning: PyTorch, fairchem, scientific ML workflows</li>
+    <li>Simulation: VASP, Nanodcal, DFT/NEGF, Ansys Fluent</li>
+    <li>Embedded Systems: Verilog, FPGA, FreeRTOS, Embedded Linux, PCB Layout</li>
+  </ul>
+</section>
