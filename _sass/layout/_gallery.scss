@@ -6,10 +6,15 @@
   margin-bottom: 2em;
 }
 
+.gallery-list {
+  margin-bottom: 1em;
+}
+
 .gallery-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(14rem, 1fr));
-  gap: 1rem;
+  grid-template-columns: repeat(auto-fit, minmax(8rem, 10rem));
+  gap: 0.8rem;
+  align-items: start;
 }
 
 .gallery-card {
@@ -17,9 +22,11 @@
 
   img {
     display: block;
-    width: 100%;
-    aspect-ratio: 4 / 3;
-    object-fit: cover;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    max-height: 8rem;
+    margin: 0 auto;
     border: 1px solid var(--global-border-color);
     border-radius: 6px;
   }

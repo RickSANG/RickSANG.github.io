@@ -11,7 +11,7 @@ redirect_from:
   <h2>About Me</h2>
   <p>Hi! I am <strong>Lindi Sang (桑林迪)</strong>, currently a master's student in Materials Science and Engineering at the <a href="https://www.nus.edu.sg/">National University of Singapore (NUS)</a>. I received my B.Eng. in Materials Science and Engineering from the <a href="https://www.uestc.edu.cn/">University of Electronic Science and Technology of China (UESTC)</a>.</p>
   <p>My research interests include deep learning-driven materials discovery, AI infrastructure, computational methods, and multiscale simulation. I am also interested in hardware-software co-design for edge AI and semiconductor technology.</p>
-  <p>Feel free to reach out to me for research discussion, academic collaboration, or technical exchange. It is my <a href="{{ base_path }}/files/SangLindi_CV.pdf">CV</a>.</p>
+  <p>After graduation, I will join <a href="https://www.cxmt.com">ChangXin Memory Technologies (CXMT, 长鑫存储)</a> as a semiconductor engineer. Feel free to reach out to me for research discussion, academic collaboration, or technical exchange. It is my <a href="{{ base_path }}/files/SangLindi_CV.pdf">CV</a>.</p>
 </section>
 
 
@@ -27,6 +27,17 @@ redirect_from:
       <p class="home-education__result">GPA: 4.75/5</p>
       <p>Aug. 2025 - Present</p>
       <p class="home-education__links"><a href="{{ base_path }}/files/N_SR_TSRPT.pdf">Master Transcript</a></p>
+    </div>
+  </div>
+  <div class="home-education__item">
+    <div class="home-education__logo">
+      <img src="https://download.logo.wine/logo/National_University_of_Singapore/National_University_of_Singapore-Logo.wine.png" alt="National University of Singapore logo">
+    </div>
+    <div class="home-education__body">
+      <a href="https://www.nus.edu.sg/">National University of Singapore (Suzhou) Research Institute</a>
+      <p>Suzhou, China</p>
+      <p>Exchange Student - Undergraduate Final Year Project</p>
+      <p>Aug. 2024 - May 2025</p>
     </div>
   </div>
   <div class="home-education__item">
@@ -55,13 +66,36 @@ redirect_from:
 </section>
 
 <section class="home-section">
+  <h2>Internships</h2>
+  <div class="home-education__item">
+    <div class="home-education__logo">
+      <img src="https://img.logokit.com/a-star.edu.sg" alt="A*STAR logo">
+    </div>
+    <div class="home-education__body">
+      <a href="https://www.a-star.edu.sg/ihpc">A*STAR Institute of High Performance Computing (A*STAR IHPC)</a>
+      <p>Master Intern - NUS MLE5003 Materials Science & Engineering Project</p>
+      <p class="home-education__result">Aug. 2025 - Present</p>
+    </div>
+  </div>
+  <div class="home-education__item">
+    <div class="home-education__logo">
+      <img src="https://companieslogo.com/img/orig/300014.SZ_BIG-57d7870f.png?t=1720244490" alt="EVE Energy logo">
+    </div>
+    <div class="home-education__body">
+      <a href="https://www.evebattery.com/en">EVE ENERGY Co., Ltd. (Huizhou, China)</a>
+      <p>Intern, Battery Management System Department</p>
+      <p class="home-education__result">Jan. 2024</p>
+    </div>
+  </div>
+</section>
+
+<section class="home-section">
   <h2>News</h2>
   <ul class="home-news">
     <li><span>2025.08</span> Started my M.S. study in Materials Science and Engineering at NUS.</li>
     <li><span>2025.08</span> Joined A*STAR IHPC as a master intern for the NUS MLE5003 project.</li>
     <li><span>2025.06</span> Received my B.Eng. degree from UESTC.</li>
     <li><span>2024</span> Won the EVE ENERGY Enterprise Scholarship and Far East Enterprise Scholarship.</li>
-    <li><span>2024</span> Received Third Prize in the Finals of the National College Students Embedded Chip and System Design Competition.</li>
   </ul>
 </section>
 
